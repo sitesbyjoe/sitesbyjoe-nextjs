@@ -21,7 +21,7 @@ function Header() {
   return (
     <header className="relative">
       <div className="logo">
-        <a href="/" className="absolute top-2 left-4 uppercase text-white">
+        <a href="/" className="absolute top-2 left-4 uppercase text-white text-xl">
           Sites by Joe
         </a>
       </div>
